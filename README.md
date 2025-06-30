@@ -1,8 +1,22 @@
-# Welcome to React Router!
+# Welcome to ASIA Explorer!
 
-A modern, production-ready template for building full-stack React applications using React Router.
+AISA Explorer is a sleek and interactive web application that helps users explore essential information about Asian countries. It provides quick and accessible details such as:
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+🏳️ **Country Name**
+
+👥 **Population statistics**
+
+🚩 **National Flag display**
+
+Built with modern frontend tools, AISA Explorer delivers a fast and responsive user experience.
+
+### 🔧 Tech Stack
+
+⚛️ React with React Router v7 Framework – for smooth navigation and dynamic routing
+
+💨 Tailwind CSS – for a clean, responsive, and mobile-friendly UI
+
+Whether you're a student, traveler, or geography enthusiast, **AISA Explorer** makes discovering Asia simple and fun.
 
 ## Features
 
@@ -85,3 +99,4 @@ This template comes with [Tailwind CSS](https://tailwindcss.com/) already config
 ---
 
 Built with ❤️ using React Router.
+
