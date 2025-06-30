@@ -19,10 +19,12 @@ export default function HomePage() {
                 <span className='block xl:inline'>Explore ASIA with</span>
                 <span className='block text-indigo-600 xl:inline'>Real-Time Data</span>
               </h1>
+
               <p className='mx-auto text-base sm:max-w-md lg:text-xl'>
                 Discover details about every asian country around the world – from capitals to
                 regions!
               </p>
+
               <div className='flex flex-col sm:flex-row sm:space-x-4'>
                 <Link
                   to='/countries'
@@ -43,6 +45,7 @@ export default function HomePage() {
                     <polyline points='12 5 19 12 12 19'></polyline>
                   </svg>
                 </Link>
+
                 <Link
                   to='/about'
                   className='flex items-center px-6 py-3 text-gray-500 bg-gray-100 rounded-md hover:bg-gray-200 hover:text-gray-600'
@@ -52,7 +55,8 @@ export default function HomePage() {
               </div>
             </div>
           </div>
-          <div className='w-full md:w-1/2'>
+
+          <div className='w-full md:w-1/2 sm:mt-5'>
             <div className='overflow-hidden rounded-md shadow-xl'>
               <img
                 src='https://image.winudf.com/v2/image/Ymx1ZWNhcC5pbWFnZXouYmVhdXRpZnVsX2NvdW50cmllc193YWxscGFwZXJzX3NjcmVlbl8wXzlpMW14OWl1/screen-0.webp?fakeurl=1&type=.webp'
